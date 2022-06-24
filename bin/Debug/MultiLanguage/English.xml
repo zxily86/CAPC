@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes" ?>
+<Softimite Language="English">  
+    !--Form1
+    <Form Name="Form1">
+      <Controls name="chineseToolStripMenuItem" Text="Chinese" ></Controls>
+      <Control name="englishToolStripMenuItem" text="English"></Controls>
+      <Control name="languageToolStripMenuItem" text="Language"></Controls>    
+  </Form>
+</Softimite>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<userRight>
+  <admin>
+    <mima>1234</mima>
+  </admin>
+  <opera>
+    <mima>111</mima>
+  </opera>
+</userRight>

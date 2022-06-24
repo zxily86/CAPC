@@ -1,0 +1,256 @@
+C:\Users\Robot\Desktop\CAPC_C#\pic\Print\bin\Debug\Print.exe.config
+C:\Users\Robot\Desktop\CAPC_C#\pic\Print\obj\Debug\Print.exe
+C:\Users\Robot\Desktop\CAPC_C#\pic\Print\obj\Debug\Print.pdb
+C:\Users\Robot\Desktop\CAPC_C#\pic\Print\bin\Debug\Print.exe
+C:\Users\Robot\Desktop\CAPC_C#\pic\Print\bin\Debug\Print.pdb
+C:\Users\Robot\Desktop\CAPC_C#\pic\Print\obj\Debug\CAPC.csprojResolveAssemblyReference.cache
+C:\Users\Robot\Desktop\CAPC_C#\pic\Print\obj\Debug\CAPC.Form1.resources
+C:\Users\Robot\Desktop\CAPC_C#\pic\Print\obj\Debug\CAPC.userForm.Alarm.resources
+C:\Users\Robot\Desktop\CAPC_C#\pic\Print\obj\Debug\CAPC.userForm.Home.resources
+C:\Users\Robot\Desktop\CAPC_C#\pic\Print\obj\Debug\CAPC.userForm.IOView.resources
+C:\Users\Robot\Desktop\CAPC_C#\pic\Print\obj\Debug\CAPC.userForm.ManualForm.resources
+C:\Users\Robot\Desktop\CAPC_C#\pic\Print\obj\Debug\CAPC.userForm.ParameterConfig.resources
+C:\Users\Robot\Desktop\CAPC_C#\pic\Print\obj\Debug\CAPC.userForm.Password.resources
+C:\Users\Robot\Desktop\CAPC_C#\pic\Print\obj\Debug\Print.Properties.Resources.resources
+C:\Users\Robot\Desktop\CAPC_C#\pic\Print\obj\Debug\CAPC.userForm.UserRightForm.resources
+C:\Users\Robot\Desktop\CAPC_C#\pic\Print\obj\Debug\CAPC.csproj.GenerateResource.Cache
+E:\03_Project\CAPC\CAPC_C#\pic\Print\obj\Debug\CAPC.csprojResolveAssemblyReference.cache
+E:\03_Project\CAPC\CAPC_C#\pic\Print\obj\Debug\CAPC.Form1.resources
+E:\03_Project\CAPC\CAPC_C#\pic\Print\obj\Debug\CAPC.userForm.Alarm.resources
+E:\03_Project\CAPC\CAPC_C#\pic\Print\obj\Debug\CAPC.userForm.Home.resources
+E:\03_Project\CAPC\CAPC_C#\pic\Print\obj\Debug\CAPC.userForm.IOView.resources
+E:\03_Project\CAPC\CAPC_C#\pic\Print\obj\Debug\CAPC.userForm.ManualForm.resources
+E:\03_Project\CAPC\CAPC_C#\pic\Print\obj\Debug\CAPC.userForm.ParameterConfig.resources
+E:\03_Project\CAPC\CAPC_C#\pic\Print\obj\Debug\CAPC.userForm.Password.resources
+E:\03_Project\CAPC\CAPC_C#\pic\Print\obj\Debug\CAPC.userForm.UserRightForm.resources
+E:\03_Project\CAPC\CAPC_C#\pic\Print\obj\Debug\CAPC.csproj.GenerateResource.Cache
+E:\03_Project\CAPC\CAPC_C#\pic\Print\bin\Debug\CAPC.exe.config
+E:\03_Project\CAPC\CAPC_C#\pic\Print\bin\Debug\CAPC.exe
+E:\03_Project\CAPC\CAPC_C#\pic\Print\bin\Debug\CAPC.pdb
+E:\03_Project\CAPC\CAPC_C#\pic\Print\obj\Debug\CAPC.Properties.Resources.resources
+E:\03_Project\CAPC\CAPC_C#\pic\Print\obj\Debug\CAPC.exe
+E:\03_Project\CAPC\CAPC_C#\pic\Print\obj\Debug\CAPC.pdb
+E:\01_Project\5_CAPC\24_CAPC_C# - 副本\CAPC\CAPC\bin\Debug\CAPC.exe.config
+E:\01_Project\5_CAPC\24_CAPC_C# - 副本\CAPC\CAPC\obj\Debug\CAPC.exe
+E:\01_Project\5_CAPC\24_CAPC_C# - 副本\CAPC\CAPC\obj\Debug\CAPC.pdb
+E:\01_Project\5_CAPC\24_CAPC_C# - 副本\CAPC\CAPC\bin\Debug\CAPC.exe
+E:\01_Project\5_CAPC\24_CAPC_C# - 副本\CAPC\CAPC\bin\Debug\CAPC.pdb
+E:\01_Project\5_CAPC\24_CAPC_C# - 副本\CAPC\CAPC\obj\Debug\CAPC.csprojResolveAssemblyReference.cache
+E:\01_Project\5_CAPC\24_CAPC_C# - 副本\CAPC\CAPC\obj\Debug\CAPC.Form1.resources
+E:\01_Project\5_CAPC\24_CAPC_C# - 副本\CAPC\CAPC\obj\Debug\CAPC.userForm.Alarm.resources
+E:\01_Project\5_CAPC\24_CAPC_C# - 副本\CAPC\CAPC\obj\Debug\CAPC.userForm.Home.resources
+E:\01_Project\5_CAPC\24_CAPC_C# - 副本\CAPC\CAPC\obj\Debug\CAPC.userForm.IOView.resources
+E:\01_Project\5_CAPC\24_CAPC_C# - 副本\CAPC\CAPC\obj\Debug\CAPC.userForm.ManualForm.resources
+E:\01_Project\5_CAPC\24_CAPC_C# - 副本\CAPC\CAPC\obj\Debug\CAPC.userForm.ParameterConfig.resources
+E:\01_Project\5_CAPC\24_CAPC_C# - 副本\CAPC\CAPC\obj\Debug\CAPC.userForm.Password.resources
+E:\01_Project\5_CAPC\24_CAPC_C# - 副本\CAPC\CAPC\obj\Debug\CAPC.Properties.Resources.resources
+E:\01_Project\5_CAPC\24_CAPC_C# - 副本\CAPC\CAPC\obj\Debug\CAPC.userForm.UserRightForm.resources
+E:\01_Project\5_CAPC\24_CAPC_C# - 副本\CAPC\CAPC\obj\Debug\CAPC.csproj.GenerateResource.Cache
+E:\01_Project\5_CAPC\24_CAPC_C#\CAPC\CAPC\bin\Debug\CAPC.exe.config
+E:\01_Project\5_CAPC\24_CAPC_C#\CAPC\CAPC\obj\Debug\CAPC.exe
+E:\01_Project\5_CAPC\24_CAPC_C#\CAPC\CAPC\obj\Debug\CAPC.pdb
+E:\01_Project\5_CAPC\24_CAPC_C#\CAPC\CAPC\bin\Debug\CAPC.exe
+E:\01_Project\5_CAPC\24_CAPC_C#\CAPC\CAPC\bin\Debug\CAPC.pdb
+E:\01_Project\5_CAPC\24_CAPC_C#\CAPC\CAPC\obj\Debug\CAPC.csprojResolveAssemblyReference.cache
+E:\01_Project\5_CAPC\24_CAPC_C#\CAPC\CAPC\obj\Debug\CAPC.Form1.resources
+E:\01_Project\5_CAPC\24_CAPC_C#\CAPC\CAPC\obj\Debug\CAPC.userForm.Alarm.resources
+E:\01_Project\5_CAPC\24_CAPC_C#\CAPC\CAPC\obj\Debug\CAPC.userForm.Home.resources
+E:\01_Project\5_CAPC\24_CAPC_C#\CAPC\CAPC\obj\Debug\CAPC.userForm.IOView.resources
+E:\01_Project\5_CAPC\24_CAPC_C#\CAPC\CAPC\obj\Debug\CAPC.userForm.ManualForm.resources
+E:\01_Project\5_CAPC\24_CAPC_C#\CAPC\CAPC\obj\Debug\CAPC.userForm.ParameterConfig.resources
+E:\01_Project\5_CAPC\24_CAPC_C#\CAPC\CAPC\obj\Debug\CAPC.userForm.Password.resources
+E:\01_Project\5_CAPC\24_CAPC_C#\CAPC\CAPC\obj\Debug\CAPC.Properties.Resources.resources
+E:\01_Project\5_CAPC\24_CAPC_C#\CAPC\CAPC\obj\Debug\CAPC.userForm.UserRightForm.resources
+E:\01_Project\5_CAPC\24_CAPC_C#\CAPC\CAPC\obj\Debug\CAPC.csproj.GenerateResource.Cache
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\CAPC\obj\Debug\CAPC.Form1.resources
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\CAPC\obj\Debug\CAPC.userForm.Alarm.resources
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\CAPC\obj\Debug\CAPC.userForm.Home.resources
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\CAPC\obj\Debug\CAPC.userForm.IOView.resources
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\CAPC\obj\Debug\CAPC.userForm.ManualForm.resources
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\CAPC\obj\Debug\CAPC.userForm.ParameterConfig.resources
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\CAPC\obj\Debug\CAPC.userForm.Password.resources
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\CAPC\obj\Debug\CAPC.Properties.Resources.resources
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\CAPC\obj\Debug\CAPC.userForm.UserRightForm.resources
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\CAPC\obj\Debug\CAPC.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\CAPC\bin\Debug\CAPC.exe.config
+C:\Users\Administrator\Desktop\CAPC\obj\Debug\CAPC.exe
+C:\Users\Administrator\Desktop\CAPC\obj\Debug\CAPC.pdb
+C:\Users\Administrator\Desktop\CAPC\obj\Debug\CAPC.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CAPC\obj\Debug\CAPC.Form1.resources
+C:\Users\Administrator\Desktop\CAPC\obj\Debug\CAPC.userForm.Alarm.resources
+C:\Users\Administrator\Desktop\CAPC\obj\Debug\CAPC.userForm.Home.resources
+C:\Users\Administrator\Desktop\CAPC\obj\Debug\CAPC.userForm.IOView.resources
+C:\Users\Administrator\Desktop\CAPC\obj\Debug\CAPC.userForm.ManualForm.resources
+C:\Users\Administrator\Desktop\CAPC\obj\Debug\CAPC.userForm.ParameterConfig.resources
+C:\Users\Administrator\Desktop\CAPC\obj\Debug\CAPC.userForm.Password.resources
+C:\Users\Administrator\Desktop\CAPC\obj\Debug\CAPC.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CAPC\obj\Debug\CAPC.userForm.UserRightForm.resources
+C:\Users\Administrator\Desktop\CAPC\obj\Debug\CAPC.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\CAPC\bin\Debug\CAPC.exe
+C:\Users\Administrator\Desktop\CAPC\bin\Debug\CAPC.pdb
+C:\Users\fg\Desktop\CAPC\bin\Debug\CAPC.exe.config
+C:\Users\fg\Desktop\CAPC\obj\Debug\CAPC.exe
+C:\Users\fg\Desktop\CAPC\obj\Debug\CAPC.pdb
+C:\Users\fg\Desktop\CAPC\bin\Debug\CAPC.exe
+C:\Users\fg\Desktop\CAPC\bin\Debug\CAPC.pdb
+C:\Users\fg\Desktop\CAPC\obj\Debug\CAPC.csprojResolveAssemblyReference.cache
+C:\Users\fg\Desktop\CAPC\obj\Debug\CAPC.Form1.resources
+C:\Users\fg\Desktop\CAPC\obj\Debug\CAPC.userForm.Alarm.resources
+C:\Users\fg\Desktop\CAPC\obj\Debug\CAPC.userForm.Home.resources
+C:\Users\fg\Desktop\CAPC\obj\Debug\CAPC.userForm.IOView.resources
+C:\Users\fg\Desktop\CAPC\obj\Debug\CAPC.userForm.ManualForm.resources
+C:\Users\fg\Desktop\CAPC\obj\Debug\CAPC.userForm.ParameterConfig.resources
+C:\Users\fg\Desktop\CAPC\obj\Debug\CAPC.userForm.Password.resources
+C:\Users\fg\Desktop\CAPC\obj\Debug\CAPC.Properties.Resources.resources
+C:\Users\fg\Desktop\CAPC\obj\Debug\CAPC.userForm.UserRightForm.resources
+C:\Users\fg\Desktop\CAPC\obj\Debug\CAPC.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\CAPC\bin\Debug\CAPC.exe.config
+C:\Users\admin\Desktop\CAPC\obj\Debug\CAPC.exe
+C:\Users\admin\Desktop\CAPC\obj\Debug\CAPC.pdb
+C:\Users\admin\Desktop\CAPC\bin\Debug\CAPC.exe
+C:\Users\admin\Desktop\CAPC\bin\Debug\CAPC.pdb
+C:\Users\admin\Desktop\CAPC\obj\Debug\CAPC.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\CAPC\obj\Debug\CAPC.Form1.resources
+C:\Users\admin\Desktop\CAPC\obj\Debug\CAPC.userForm.Alarm.resources
+C:\Users\admin\Desktop\CAPC\obj\Debug\CAPC.userForm.Home.resources
+C:\Users\admin\Desktop\CAPC\obj\Debug\CAPC.userForm.IOView.resources
+C:\Users\admin\Desktop\CAPC\obj\Debug\CAPC.userForm.ManualForm.resources
+C:\Users\admin\Desktop\CAPC\obj\Debug\CAPC.userForm.ParameterConfig.resources
+C:\Users\admin\Desktop\CAPC\obj\Debug\CAPC.userForm.Password.resources
+C:\Users\admin\Desktop\CAPC\obj\Debug\CAPC.Properties.Resources.resources
+C:\Users\admin\Desktop\CAPC\obj\Debug\CAPC.userForm.UserRightForm.resources
+C:\Users\admin\Desktop\CAPC\obj\Debug\CAPC.csproj.GenerateResource.Cache
+\\192.168.1.248\capc上位机\CAPC\bin\Debug\CAPC.exe.config
+\\192.168.1.248\capc上位机\CAPC\obj\Debug\CAPC.exe
+\\192.168.1.248\capc上位机\CAPC\obj\Debug\CAPC.pdb
+\\192.168.1.248\capc上位机\CAPC\bin\Debug\CAPC.exe
+\\192.168.1.248\capc上位机\CAPC\bin\Debug\CAPC.pdb
+\\192.168.1.248\capc上位机\CAPC\obj\Debug\CAPC.csprojResolveAssemblyReference.cache
+\\192.168.1.248\capc上位机\CAPC\obj\Debug\CAPC.Form1.resources
+\\192.168.1.248\capc上位机\CAPC\obj\Debug\CAPC.userForm.Alarm.resources
+\\192.168.1.248\capc上位机\CAPC\obj\Debug\CAPC.userForm.Home.resources
+\\192.168.1.248\capc上位机\CAPC\obj\Debug\CAPC.userForm.IOView.resources
+\\192.168.1.248\capc上位机\CAPC\obj\Debug\CAPC.userForm.ManualForm.resources
+\\192.168.1.248\capc上位机\CAPC\obj\Debug\CAPC.userForm.ParameterConfig.resources
+\\192.168.1.248\capc上位机\CAPC\obj\Debug\CAPC.userForm.Password.resources
+\\192.168.1.248\capc上位机\CAPC\obj\Debug\CAPC.Properties.Resources.resources
+\\192.168.1.248\capc上位机\CAPC\obj\Debug\CAPC.userForm.UserRightForm.resources
+\\192.168.1.248\capc上位机\CAPC\obj\Debug\CAPC.csproj.GenerateResource.Cache
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\CAPC - new\bin\Debug\CAPC.exe.config
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\CAPC - new\obj\Debug\CAPC.exe
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\CAPC - new\obj\Debug\CAPC.pdb
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\CAPC - new\bin\Debug\CAPC.exe
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\CAPC - new\bin\Debug\CAPC.pdb
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\CAPC - new\obj\Debug\CAPC.csprojResolveAssemblyReference.cache
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\CAPC - new\obj\Debug\CAPC.Form1.resources
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\CAPC - new\obj\Debug\CAPC.userForm.Alarm.resources
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\CAPC - new\obj\Debug\CAPC.userForm.Home.resources
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\CAPC - new\obj\Debug\CAPC.userForm.IOView.resources
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\CAPC - new\obj\Debug\CAPC.userForm.ManualForm.resources
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\CAPC - new\obj\Debug\CAPC.userForm.ParameterConfig.resources
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\CAPC - new\obj\Debug\CAPC.userForm.Password.resources
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\CAPC - new\obj\Debug\CAPC.Properties.Resources.resources
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\CAPC - new\obj\Debug\CAPC.userForm.UserRightForm.resources
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\CAPC - new\obj\Debug\CAPC.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\CAPC - new\bin\Debug\CAPC.exe.config
+C:\Users\admin\Desktop\CAPC - new\obj\Debug\CAPC.exe
+C:\Users\admin\Desktop\CAPC - new\obj\Debug\CAPC.pdb
+C:\Users\admin\Desktop\CAPC - new\bin\Debug\CAPC.exe
+C:\Users\admin\Desktop\CAPC - new\bin\Debug\CAPC.pdb
+C:\Users\admin\Desktop\CAPC - new\obj\Debug\CAPC.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\CAPC - new\obj\Debug\CAPC.Form1.resources
+C:\Users\admin\Desktop\CAPC - new\obj\Debug\CAPC.userForm.Alarm.resources
+C:\Users\admin\Desktop\CAPC - new\obj\Debug\CAPC.userForm.Home.resources
+C:\Users\admin\Desktop\CAPC - new\obj\Debug\CAPC.userForm.IOView.resources
+C:\Users\admin\Desktop\CAPC - new\obj\Debug\CAPC.userForm.ManualForm.resources
+C:\Users\admin\Desktop\CAPC - new\obj\Debug\CAPC.userForm.ParameterConfig.resources
+C:\Users\admin\Desktop\CAPC - new\obj\Debug\CAPC.userForm.Password.resources
+C:\Users\admin\Desktop\CAPC - new\obj\Debug\CAPC.Properties.Resources.resources
+C:\Users\admin\Desktop\CAPC - new\obj\Debug\CAPC.userForm.UserRightForm.resources
+C:\Users\admin\Desktop\CAPC - new\obj\Debug\CAPC.csproj.GenerateResource.Cache
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\CAPC\bin\Debug\CAPC.exe.config
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\CAPC\bin\Debug\CAPC.exe
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\CAPC\bin\Debug\CAPC.pdb
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\CAPC\obj\Debug\CAPC.exe
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\CAPC\obj\Debug\CAPC.pdb
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\CAPC\obj\Debug\CAPC.csprojResolveAssemblyReference.cache
+\\192.168.1.248\capc\bin\Debug\CAPC.exe.config
+\\192.168.1.248\capc\obj\Debug\CAPC.exe
+\\192.168.1.248\capc\obj\Debug\CAPC.pdb
+\\192.168.1.248\capc\bin\Debug\CAPC.exe
+\\192.168.1.248\capc\bin\Debug\CAPC.pdb
+\\192.168.1.248\capc\obj\Debug\CAPC.csprojResolveAssemblyReference.cache
+\\192.168.1.248\capc\obj\Debug\CAPC.Form1.resources
+\\192.168.1.248\capc\obj\Debug\CAPC.userForm.Alarm.resources
+\\192.168.1.248\capc\obj\Debug\CAPC.userForm.Home.resources
+\\192.168.1.248\capc\obj\Debug\CAPC.userForm.IOView.resources
+\\192.168.1.248\capc\obj\Debug\CAPC.userForm.ManualForm.resources
+\\192.168.1.248\capc\obj\Debug\CAPC.userForm.ParameterConfig.resources
+\\192.168.1.248\capc\obj\Debug\CAPC.userForm.Password.resources
+\\192.168.1.248\capc\obj\Debug\CAPC.Properties.Resources.resources
+\\192.168.1.248\capc\obj\Debug\CAPC.userForm.UserRightForm.resources
+\\192.168.1.248\capc\obj\Debug\CAPC.csproj.GenerateResource.Cache
+D:\CAPC\CAPC上位机\bin\Debug\CAPC.exe.config
+D:\CAPC\CAPC上位机\obj\Debug\CAPC.exe
+D:\CAPC\CAPC上位机\obj\Debug\CAPC.pdb
+D:\CAPC\CAPC上位机\bin\Debug\CAPC.exe
+D:\CAPC\CAPC上位机\bin\Debug\CAPC.pdb
+D:\CAPC\CAPC上位机\obj\Debug\CAPC.csprojResolveAssemblyReference.cache
+D:\CAPC\CAPC上位机\obj\Debug\CAPC.Form1.resources
+D:\CAPC\CAPC上位机\obj\Debug\CAPC.userForm.Alarm.resources
+D:\CAPC\CAPC上位机\obj\Debug\CAPC.userForm.Home.resources
+D:\CAPC\CAPC上位机\obj\Debug\CAPC.userForm.IOView.resources
+D:\CAPC\CAPC上位机\obj\Debug\CAPC.userForm.ManualForm.resources
+D:\CAPC\CAPC上位机\obj\Debug\CAPC.userForm.ParameterConfig.resources
+D:\CAPC\CAPC上位机\obj\Debug\CAPC.userForm.Password.resources
+D:\CAPC\CAPC上位机\obj\Debug\CAPC.Properties.Resources.resources
+D:\CAPC\CAPC上位机\obj\Debug\CAPC.userForm.UserRightForm.resources
+D:\CAPC\CAPC上位机\obj\Debug\CAPC.csproj.GenerateResource.Cache
+C:\Users\fg\Desktop\CAPC上位机\bin\Debug\CAPC.exe.config
+C:\Users\fg\Desktop\CAPC上位机\obj\Debug\CAPC.exe
+C:\Users\fg\Desktop\CAPC上位机\obj\Debug\CAPC.pdb
+E:\CAPC上位机\bin\Debug\CAPC.exe.config
+E:\CAPC上位机\obj\Debug\CAPC.exe
+E:\CAPC上位机\obj\Debug\CAPC.pdb
+E:\CAPC上位机\bin\Debug\CAPC.exe
+E:\CAPC上位机\bin\Debug\CAPC.pdb
+E:\CAPC上位机\obj\Debug\CAPC.csprojResolveAssemblyReference.cache
+E:\CAPC上位机\obj\Debug\CAPC.Form1.resources
+E:\CAPC上位机\obj\Debug\CAPC.userForm.Alarm.resources
+E:\CAPC上位机\obj\Debug\CAPC.userForm.Home.resources
+E:\CAPC上位机\obj\Debug\CAPC.userForm.IOView.resources
+E:\CAPC上位机\obj\Debug\CAPC.userForm.ManualForm.resources
+E:\CAPC上位机\obj\Debug\CAPC.userForm.ParameterConfig.resources
+E:\CAPC上位机\obj\Debug\CAPC.userForm.Password.resources
+E:\CAPC上位机\obj\Debug\CAPC.Properties.Resources.resources
+E:\CAPC上位机\obj\Debug\CAPC.userForm.UserRightForm.resources
+E:\CAPC上位机\obj\Debug\CAPC.csproj.GenerateResource.Cache
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\源码\CAPC上位机\bin\Debug\CAPC.exe.config
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\源码\CAPC上位机\obj\Debug\CAPC.exe
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\源码\CAPC上位机\obj\Debug\CAPC.pdb
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\源码\CAPC上位机\bin\Debug\CAPC.exe
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\源码\CAPC上位机\bin\Debug\CAPC.pdb
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\源码\CAPC上位机\obj\Debug\CAPC.csprojResolveAssemblyReference.cache
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\源码\CAPC上位机\obj\Debug\CAPC.Form1.resources
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\源码\CAPC上位机\obj\Debug\CAPC.userForm.Alarm.resources
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\源码\CAPC上位机\obj\Debug\CAPC.userForm.Home.resources
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\源码\CAPC上位机\obj\Debug\CAPC.userForm.IOView.resources
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\源码\CAPC上位机\obj\Debug\CAPC.userForm.ManualForm.resources
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\源码\CAPC上位机\obj\Debug\CAPC.userForm.ParameterConfig.resources
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\源码\CAPC上位机\obj\Debug\CAPC.userForm.Password.resources
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\源码\CAPC上位机\obj\Debug\CAPC.Properties.Resources.resources
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\源码\CAPC上位机\obj\Debug\CAPC.userForm.UserRightForm.resources
+D:\fg\项目\.2 CAPC香港项目\CAPC上位机\源码\CAPC上位机\obj\Debug\CAPC.csproj.GenerateResource.Cache
+C:\Users\fg\Desktop\CAPC上位机\bin\Debug\CAPC.exe
+C:\Users\fg\Desktop\CAPC上位机\bin\Debug\CAPC.pdb
+C:\Users\fg\Desktop\CAPC上位机\obj\Debug\CAPC.csprojResolveAssemblyReference.cache
+C:\Users\fg\Desktop\CAPC上位机\obj\Debug\CAPC.Form1.resources
+C:\Users\fg\Desktop\CAPC上位机\obj\Debug\CAPC.userForm.Alarm.resources
+C:\Users\fg\Desktop\CAPC上位机\obj\Debug\CAPC.userForm.Home.resources
+C:\Users\fg\Desktop\CAPC上位机\obj\Debug\CAPC.userForm.IOView.resources
+C:\Users\fg\Desktop\CAPC上位机\obj\Debug\CAPC.userForm.ManualForm.resources
+C:\Users\fg\Desktop\CAPC上位机\obj\Debug\CAPC.userForm.ParameterConfig.resources
+C:\Users\fg\Desktop\CAPC上位机\obj\Debug\CAPC.userForm.Password.resources
+C:\Users\fg\Desktop\CAPC上位机\obj\Debug\CAPC.Properties.Resources.resources
+C:\Users\fg\Desktop\CAPC上位机\obj\Debug\CAPC.userForm.UserRightForm.resources
+C:\Users\fg\Desktop\CAPC上位机\obj\Debug\CAPC.csproj.GenerateResource.Cache
