@@ -93,8 +93,8 @@ namespace CAPC
                 port = int.Parse(ConfigurationManager.AppSettings["ServerPort"]);
 
                 //视觉通信
-                ccdServeIP = ConfigurationManager.AppSettings["ccdServeIP"];
-                ccdServePort = int.Parse(ConfigurationManager.AppSettings["ccdServePort"]);
+                //ccdServeIP = ConfigurationManager.AppSettings["ccdServeIP"];
+                //ccdServePort = int.Parse(ConfigurationManager.AppSettings["ccdServePort"]);
                 
                 cCD_communication = new CCD_communication(ccdServeIP, ccdServePort);
                 cCD_communication.receiveAction += ccdReceive;
@@ -192,7 +192,7 @@ namespace CAPC
             }
             catch (Exception ex)
             {
-                OutputDebugString($"{ex.Message}    {ex.StackTrace}");
+               
                 return "";
             }
         }
@@ -401,6 +401,7 @@ namespace CAPC
                     panel2.Controls.Clear();
                     try
                     {
+                        int a = 0;
                         if (state_form == "Home")
                         {
                             Application.OpenForms["Home"].Close();
