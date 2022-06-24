@@ -40,6 +40,7 @@ namespace CAPC
             try
             {
                 //try毛线
+                //无语
                 client = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
                 IPEndPoint ipep = new IPEndPoint(IPAddress.Parse(serveIp), servePort);
                 if (client != null && client.Connected)
